@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\bin\Debug\Charliezkie Python Console Disabler.exe.config
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\bin\Debug\Charliezkie Python Console Disabler.exe
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\bin\Debug\Charliezkie Python Console Disabler.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie_Python_Console_Disabler.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.exe
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie Python Console Disabler.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Charliezkie Python Console Disabler\Charliezkie Python Console Disabler\obj\Debug\Charliezkie_Python_Console_Disabler.MainForm.resources
