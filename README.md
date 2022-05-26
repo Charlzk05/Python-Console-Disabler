@@ -7,5 +7,11 @@ Using C# to create .BAT and .VBS file that disable Python Console
 ### PythonServerOFF.bat
 ```bat
 @echo off
-python Test.py```
+python Test.py
+```
 
+
+### Start.vbs
+```vbs
+CreateObject("WScript.Shell").Run "PythonServerOFF.bat", 0, True
+```
